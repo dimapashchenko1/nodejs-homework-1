@@ -12,13 +12,15 @@ https://monosnap.com/file/j2iTxBVxB6lMWZ5O3ykfiQmjoTzWoN
 _______________________________________________________________
 2 Получаем контакт по id
 (node index.js --action get --id 5)
-_______________________________________________________________
+
 https://monosnap.com/file/CWam9wWsr5sOmcX8oYnDOBzqZU24JH
+_______________________________________________________________
 3 Добавляем контакт
 
 (node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22)
-_______________________________________________________________
+
 https://monosnap.com/file/f5R58rUf4WqXYawTMCzgmgw8AesGwV
+_______________________________________________________________
 4 Удаляем контакт
 (node index.js --action remove --id 3)
 
